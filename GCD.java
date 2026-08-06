@@ -10,9 +10,7 @@ public class GCD {
         System.out.println("rem"+ rem);
         }
         System.out.println("aaa"+a);
-
         return a;
-
     }
     public static void main(String[] args) {
         int ans =  calcGCD(3, 94);
