@@ -8,7 +8,7 @@ public class Prime1 {
                 count=count+1;
             }
         }
-        if(count>2){
+        if(count>1){
                 System.out.println("not prime");
             }else{
                 System.out.println("prime");
@@ -17,7 +17,7 @@ public class Prime1 {
         
     }
     public static void main(String[] args) {
-        pno(18,0);
+        pno(19,0);
     }
     
 }
